@@ -1,3 +1,7 @@
+![GitHub top language](https://img.shields.io/github/languages/top/Alisson-tech/Analise_Dados_Churn)
+![GitHub](https://img.shields.io/github/license/Alisson-tech/Analise_Dados_Churn)
+![GitHub repo size](https://img.shields.io/github/repo-size/Alisson-tech/Analise_Dados_Churn)
+
 # Analise_Dados_Churn
 
 Aplicativo desenvolvido na terceira aula da semana Python do canal "Hashtag Programação"
