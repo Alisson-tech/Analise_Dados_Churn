@@ -1,10 +1,10 @@
 # Analise_Dados_Churn
 
-Aplicativo desenvolvido na terceira aula da semana Python, do canal "Hashtag Programação"
+Aplicativo desenvolvido na terceira aula da semana Python do canal "Hashtag Programação"
 
 ## Situação:
 
-A empresa relata que há um churn de 26% dos clientes. então foi disponibilizado uma base dados para análise, 
+A empresa relata que há um churn de 26% dos clientes. então foi disponibilizado uma base dados para análise 
 com o objetivo de encontrar uma solução para esse problema.
 
 ## Análise
@@ -26,7 +26,7 @@ Caracteristicas da base de dados:
 - existe dados nulos nas colunas: Dependentes, churn
 - a coluna total de gastos não está com os dados do tipo float.
 
-Resltados:
+Resultados:
 
 ![ColunasTratadas](https://github.com/Alisson-tech/Analise_Dados_Churn/blob/master/img/colunasTratadas.PNG)
 
@@ -43,7 +43,7 @@ Solução: bonus depois que o cliente passa de 3 meses
 
 ![ColunasTratadas](https://github.com/Alisson-tech/Analise_Dados_Churn/blob/master/img/grafico-Meses.PNG)
 
-- Problemas de fibra, muitos cancelamentos para quem usa internet de fibra otica
+- Problemas de fibra, muitos cancelamentos para quem usa internet de fibra ótica
 
 Solução: Melhorar a qualidade da fibra ótica
 
